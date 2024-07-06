@@ -1,7 +1,5 @@
-*.txt
 venv*
 .env
 __pycache__*
 *.csv
-*.ipynb
 *.keras

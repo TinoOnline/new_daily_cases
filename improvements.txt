@@ -1,0 +1,5 @@
+The forecast accuracy could be improved in a number of ways:
+- The data on the number of deaths experienced could be used to help predict the cases that are likely to follow. This would serve as a strong metric, and a multivariate model could be created.
+- Another improvement would be to leverage more data from countries with similar historical reporting behavior and cases. This could be used to better train the model.
+- The data from other countries could also be used to better preprocess the local data. This can be used to patch the data or even create a new dataset that has better general prediction accuracy.
+- Using the above combination could also justify the use of an LSTM model, which is more feasible with more data, allowing for better pattern recognition and hence forecasting accuracy.
